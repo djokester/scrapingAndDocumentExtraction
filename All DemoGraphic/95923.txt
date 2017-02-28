@@ -1,0 +1,327 @@
+
+
+
+Population
+58
+
+
+
+Population Density
+6
+people per sq mi
+
+
+Housing Units
+214
+
+
+
+Median Home Value
+$350,000
+
+
+
+
+
+
+Land Area
+9.93
+sq mi
+
+
+Water Area
+0.00
+sq mi
+
+
+Occupied Housing Units
+28
+
+
+
+Median Household Income
+$45,875
+
+
+
+
+
+
+ Male
+37
+64&percnt;
+
+
+ Female
+21
+36&percnt;
+
+
+Gender
+
+
+
+ White
+56
+97&percnt;
+
+
+ Black Or African American
+0
+0&percnt;
+
+
+ American Indian Or Alaskan Native
+0
+0&percnt;
+
+
+ Asian
+2
+3&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+0
+0&percnt;
+
+
+ Other Race
+0
+0&percnt;
+
+
+ Two Or More Races
+0
+0&percnt;
+
+
+Race
+
+
+
+ Husband Wife Family Households
+10
+36&percnt;
+
+
+ Single Guardian
+4
+14&percnt;
+
+
+ Singles
+12
+43&percnt;
+
+
+ Singles With Roommate
+2
+7&percnt;
+
+
+Families vs Singles
+
+
+
+
+									Average Household Size: 2								
+
+
+
+
+ Households without Kids
+19
+68&percnt;
+
+
+ Households with Kids
+9
+32&percnt;
+
+
+Households with Kids
+
+
+
+ In Occupied Housing Units
+58
+100&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+0
+0&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+0
+0&percnt;
+
+
+ Other Noninstitutional
+0
+0&percnt;
+
+
+Housing Type
+
+
+
+ Owned Households With A Mortgage
+7
+3&percnt;
+
+
+ Owned Households Free & Clear
+10
+5&percnt;
+
+
+ Renter Occupied Households
+11
+5&percnt;
+
+
+ Households Vacant
+186
+87&percnt;
+
+
+Housing Occupancy
+
+
+
+ For Rent
+0
+0&percnt;
+
+
+ Rented & Unoccupied
+0
+0&percnt;
+
+
+ For Sale Only
+0
+0&percnt;
+
+
+ Sold & Unoccupied
+0
+0&percnt;
+
+
+ For Season Recreational Or Occasional Use
+182
+98&percnt;
+
+
+ For Migrant Workers
+0
+0&percnt;
+
+
+ Vacant For Other Reasons
+4
+2&percnt;
+
+
+Vacancy Reasons
+
+
+
+ Worked Full-time with Earnings
+0
+0&percnt;
+
+
+ Worked Part-time with Earnings
+0
+0&percnt;
+
+
+ No Earnings
+33
+100&percnt;
+
+
+Employment Status
+
+
+
+ Worked Full-time with Earnings
+0
+0&percnt;
+
+
+ Worked Part-time with Earnings
+0
+0&percnt;
+
+
+ No Earnings
+33
+100&percnt;
+
+
+Source of Earnings
+
+
+
+ Less than High School Diploma
+0
+0&percnt;
+
+
+ High School Graduate
+0
+0&percnt;
+
+
+ Associate's degree
+10
+59&percnt;
+
+
+ Bachelor's degree
+0
+0&percnt;
+
+
+ Master's degree
+0
+0&percnt;
+
+
+ Professional school degree
+7
+41&percnt;
+
+
+ Doctorate degree
+0
+0&percnt;
+
+
+Educational Attainment For The Population 25 Years And Over

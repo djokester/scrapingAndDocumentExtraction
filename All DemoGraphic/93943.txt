@@ -1,0 +1,312 @@
+
+
+
+Population
+6
+
+
+
+Population Density
+35
+people per sq mi
+
+
+Housing Units
+5
+
+
+
+
+
+
+Land Area
+0.17
+sq mi
+
+
+Water Area
+0.00
+sq mi
+
+
+Occupied Housing Units
+3
+
+
+
+
+
+
+ Male
+3
+50&percnt;
+
+
+ Female
+3
+50&percnt;
+
+
+Gender
+
+
+
+ White
+4
+67&percnt;
+
+
+ Black Or African American
+0
+0&percnt;
+
+
+ American Indian Or Alaskan Native
+0
+0&percnt;
+
+
+ Asian
+1
+17&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+0
+0&percnt;
+
+
+ Other Race
+0
+0&percnt;
+
+
+ Two Or More Races
+1
+17&percnt;
+
+
+Race
+
+
+
+ Husband Wife Family Households
+1
+33&percnt;
+
+
+ Single Guardian
+0
+0&percnt;
+
+
+ Singles
+1
+33&percnt;
+
+
+ Singles With Roommate
+1
+33&percnt;
+
+
+Families vs Singles
+
+
+
+
+									Average Household Size: 2								
+
+
+
+
+ Households without Kids
+3
+100&percnt;
+
+
+ Households with Kids
+0
+0&percnt;
+
+
+Households with Kids
+
+
+
+ In Occupied Housing Units
+6
+100&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+0
+0&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+0
+0&percnt;
+
+
+ Other Noninstitutional
+0
+0&percnt;
+
+
+Housing Type
+
+
+
+ Owned Households With A Mortgage
+0
+0&percnt;
+
+
+ Owned Households Free & Clear
+0
+0&percnt;
+
+
+ Renter Occupied Households
+3
+60&percnt;
+
+
+ Households Vacant
+2
+40&percnt;
+
+
+Housing Occupancy
+
+
+
+ For Rent
+0
+0&percnt;
+
+
+ Rented & Unoccupied
+0
+0&percnt;
+
+
+ For Sale Only
+0
+0&percnt;
+
+
+ Sold & Unoccupied
+0
+0&percnt;
+
+
+ For Season Recreational Or Occasional Use
+0
+0&percnt;
+
+
+ For Migrant Workers
+0
+0&percnt;
+
+
+ Vacant For Other Reasons
+2
+100&percnt;
+
+
+Vacancy Reasons
+
+
+
+ Worked Full-time with Earnings
+7
+100&percnt;
+
+
+ Worked Part-time with Earnings
+0
+0&percnt;
+
+
+ No Earnings
+0
+0&percnt;
+
+
+Employment Status
+
+
+
+ Worked Full-time with Earnings
+7
+100&percnt;
+
+
+ Worked Part-time with Earnings
+0
+0&percnt;
+
+
+ No Earnings
+0
+0&percnt;
+
+
+Source of Earnings
+
+
+
+ Car, truck, or van
+7
+100&percnt;
+
+
+ Public transportation
+0
+0&percnt;
+
+
+ Taxicab
+0
+0&percnt;
+
+
+ Motorcycle
+0
+0&percnt;
+
+
+ Bicycle, Walked, or Other Means
+0
+0&percnt;
+
+
+ Worked at Home
+0
+0&percnt;
+
+
+Means Of Transportation To Work for Workers 16 and Over

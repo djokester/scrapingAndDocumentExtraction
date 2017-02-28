@@ -1,0 +1,312 @@
+
+
+
+Population
+198
+
+
+
+Population Density
+1,069
+people per sq mi
+
+
+Housing Units
+13
+
+
+
+
+
+
+Land Area
+0.19
+sq mi
+
+
+Water Area
+0.00
+sq mi
+
+
+Occupied Housing Units
+13
+
+
+
+
+
+
+ Male
+161
+81&percnt;
+
+
+ Female
+37
+19&percnt;
+
+
+Gender
+
+
+
+ White
+115
+58&percnt;
+
+
+ Black Or African American
+30
+15&percnt;
+
+
+ American Indian Or Alaskan Native
+5
+3&percnt;
+
+
+ Asian
+22
+11&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+0
+0&percnt;
+
+
+ Other Race
+10
+5&percnt;
+
+
+ Two Or More Races
+16
+8&percnt;
+
+
+Race
+
+
+
+ Husband Wife Family Households
+0
+0&percnt;
+
+
+ Single Guardian
+0
+0&percnt;
+
+
+ Singles
+13
+100&percnt;
+
+
+ Singles With Roommate
+0
+0&percnt;
+
+
+Families vs Singles
+
+
+
+
+									Average Household Size: 1								
+
+
+
+
+ Households without Kids
+13
+100&percnt;
+
+
+ Households with Kids
+0
+0&percnt;
+
+
+Households with Kids
+
+
+
+ In Occupied Housing Units
+13
+7&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+43
+22&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+142
+72&percnt;
+
+
+ Other Noninstitutional
+0
+0&percnt;
+
+
+Housing Type
+
+
+
+ Owned Households With A Mortgage
+0
+0&percnt;
+
+
+ Owned Households Free & Clear
+0
+0&percnt;
+
+
+ Renter Occupied Households
+13
+100&percnt;
+
+
+ Households Vacant
+0
+0&percnt;
+
+
+Housing Occupancy
+
+
+
+ Worked Full-time with Earnings
+67
+66&percnt;
+
+
+ Worked Part-time with Earnings
+34
+34&percnt;
+
+
+ No Earnings
+0
+0&percnt;
+
+
+Employment Status
+
+
+
+ Worked Full-time with Earnings
+67
+66&percnt;
+
+
+ Worked Part-time with Earnings
+34
+34&percnt;
+
+
+ No Earnings
+0
+0&percnt;
+
+
+Source of Earnings
+
+
+
+ Car, truck, or van
+32
+41&percnt;
+
+
+ Public transportation
+0
+0&percnt;
+
+
+ Taxicab
+0
+0&percnt;
+
+
+ Motorcycle
+0
+0&percnt;
+
+
+ Bicycle, Walked, or Other Means
+23
+29&percnt;
+
+
+ Worked at Home
+23
+29&percnt;
+
+
+Means Of Transportation To Work for Workers 16 and Over
+
+
+
+ Less than High School Diploma
+0
+0&percnt;
+
+
+ High School Graduate
+22
+100&percnt;
+
+
+ Associate's degree
+0
+0&percnt;
+
+
+ Bachelor's degree
+0
+0&percnt;
+
+
+ Master's degree
+0
+0&percnt;
+
+
+ Professional school degree
+0
+0&percnt;
+
+
+ Doctorate degree
+0
+0&percnt;
+
+
+Educational Attainment For The Population 25 Years And Over

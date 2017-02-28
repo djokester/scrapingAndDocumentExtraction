@@ -1,0 +1,404 @@
+
+
+
+Population
+33,708
+
+
+
+Population Density
+4,131
+people per sq mi
+
+
+Housing Units
+12,206
+
+
+
+Median Home Value
+$611,800
+
+
+
+
+
+
+Land Area
+8.16
+sq mi
+
+
+Water Area
+0.01
+sq mi
+
+
+Occupied Housing Units
+11,770
+
+
+
+Median Household Income
+$99,230
+
+
+
+
+
+
+ Male
+16,394
+49&percnt;
+
+
+ Female
+17,314
+51&percnt;
+
+
+Gender
+
+
+
+ White
+19,782
+58.7&percnt;
+
+
+ Black Or African American
+1,172
+3.5&percnt;
+
+
+ American Indian Or Alaskan Native
+66
+0.2&percnt;
+
+
+ Asian
+9,994
+29.6&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+30
+0.1&percnt;
+
+
+ Other Race
+1,299
+3.9&percnt;
+
+
+ Two Or More Races
+1,365
+4.0&percnt;
+
+
+Race
+
+
+
+ Husband Wife Family Households
+7,731
+66&percnt;
+
+
+ Single Guardian
+1,598
+14&percnt;
+
+
+ Singles
+1,905
+16&percnt;
+
+
+ Singles With Roommate
+536
+5&percnt;
+
+
+Families vs Singles
+
+
+
+
+									Average Household Size: 3								
+
+
+
+
+ Households without Kids
+7,681
+65&percnt;
+
+
+ Households with Kids
+4,089
+35&percnt;
+
+
+Households with Kids
+
+
+
+ In Occupied Housing Units
+33,647
+99.8&percnt;
+
+
+ Correctional Facility For Adults
+0
+0.0&percnt;
+
+
+ Juvenile Facilities
+6
+0.0&percnt;
+
+
+ Nursing Facilities
+13
+0.0&percnt;
+
+
+ Other Institutional
+0
+0.0&percnt;
+
+
+ College Student Housing
+0
+0.0&percnt;
+
+
+ Military Quarters
+0
+0.0&percnt;
+
+
+ Other Noninstitutional
+42
+0.1&percnt;
+
+
+Housing Type
+
+
+
+ Owned Households With A Mortgage
+7,547
+62&percnt;
+
+
+ Owned Households Free & Clear
+1,612
+13&percnt;
+
+
+ Renter Occupied Households
+2,611
+21&percnt;
+
+
+ Households Vacant
+436
+4&percnt;
+
+
+Housing Occupancy
+
+
+
+ For Rent
+196
+45.0&percnt;
+
+
+ Rented & Unoccupied
+8
+1.8&percnt;
+
+
+ For Sale Only
+110
+25.2&percnt;
+
+
+ Sold & Unoccupied
+25
+5.7&percnt;
+
+
+ For Season Recreational Or Occasional Use
+32
+7.3&percnt;
+
+
+ For Migrant Workers
+1
+0.2&percnt;
+
+
+ Vacant For Other Reasons
+64
+14.7&percnt;
+
+
+Vacancy Reasons
+
+
+
+ Studio Apartment
+200
+6&percnt;
+
+
+ 1 Bedroom
+674
+21&percnt;
+
+
+ 2 Bedroom
+705
+22&percnt;
+
+
+ 3+ Bedroom
+1,696
+52&percnt;
+
+
+Rental Properties by Number of Rooms
+
+
+
+ Worked Full-time with Earnings
+11,931
+41&percnt;
+
+
+ Worked Part-time with Earnings
+6,752
+23&percnt;
+
+
+ No Earnings
+10,232
+35&percnt;
+
+
+Employment Status
+
+
+
+ Worked Full-time with Earnings
+11,931
+41&percnt;
+
+
+ Worked Part-time with Earnings
+6,752
+23&percnt;
+
+
+ No Earnings
+10,232
+35&percnt;
+
+
+Source of Earnings
+
+
+
+ Car, truck, or van
+14,837
+88.5&percnt;
+
+
+ Public transportation
+398
+2.4&percnt;
+
+
+ Taxicab
+0
+0.0&percnt;
+
+
+ Motorcycle
+30
+0.2&percnt;
+
+
+ Bicycle, Walked, or Other Means
+453
+2.7&percnt;
+
+
+ Worked at Home
+1,044
+6.2&percnt;
+
+
+Means Of Transportation To Work for Workers 16 and Over
+
+
+
+ Less than High School Diploma
+647
+5&percnt;
+
+
+ High School Graduate
+3,824
+32&percnt;
+
+
+ Associate's degree
+903
+8&percnt;
+
+
+ Bachelor's degree
+4,192
+35&percnt;
+
+
+ Master's degree
+1,375
+12&percnt;
+
+
+ Professional school degree
+729
+6&percnt;
+
+
+ Doctorate degree
+234
+2&percnt;
+
+
+Educational Attainment For The Population 25 Years And Over
+
+
+
+ Enrolled in Public School
+4,734
+68.0&percnt;
+
+
+ Enrolled in Private School
+1,969
+28.3&percnt;
+
+
+ Not Enrolled in School
+256
+3.7&percnt;
+
+
+School Enrollment (Ages 3 to 17)

@@ -1,0 +1,244 @@
+
+
+
+Population
+571
+
+
+
+Population Density
+1,194
+people per sq mi
+
+
+Housing Units
+0
+
+
+
+
+
+
+Land Area
+0.48
+sq mi
+
+
+Water Area
+0.00
+sq mi
+
+
+Occupied Housing Units
+0
+
+
+
+
+
+
+ Male
+502
+88&percnt;
+
+
+ Female
+69
+12&percnt;
+
+
+Gender
+
+
+
+ White
+449
+78.6&percnt;
+
+
+ Black Or African American
+60
+10.5&percnt;
+
+
+ American Indian Or Alaskan Native
+2
+0.4&percnt;
+
+
+ Asian
+19
+3.3&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+1
+0.2&percnt;
+
+
+ Other Race
+18
+3.2&percnt;
+
+
+ Two Or More Races
+22
+3.9&percnt;
+
+
+Race
+
+
+
+ In Occupied Housing Units
+0
+0&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+0
+0&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+571
+100&percnt;
+
+
+ Other Noninstitutional
+0
+0&percnt;
+
+
+Housing Type
+
+
+
+ Worked Full-time with Earnings
+544
+79&percnt;
+
+
+ Worked Part-time with Earnings
+144
+21&percnt;
+
+
+ No Earnings
+0
+0&percnt;
+
+
+Employment Status
+
+
+
+ Worked Full-time with Earnings
+544
+79&percnt;
+
+
+ Worked Part-time with Earnings
+144
+21&percnt;
+
+
+ No Earnings
+0
+0&percnt;
+
+
+Source of Earnings
+
+
+
+ Car, truck, or van
+306
+45&percnt;
+
+
+ Public transportation
+21
+3&percnt;
+
+
+ Taxicab
+0
+0&percnt;
+
+
+ Motorcycle
+8
+1&percnt;
+
+
+ Bicycle, Walked, or Other Means
+206
+30&percnt;
+
+
+ Worked at Home
+146
+21&percnt;
+
+
+Means Of Transportation To Work for Workers 16 and Over
+
+
+
+ Less than High School Diploma
+0
+0&percnt;
+
+
+ High School Graduate
+92
+66&percnt;
+
+
+ Associate's degree
+5
+4&percnt;
+
+
+ Bachelor's degree
+30
+22&percnt;
+
+
+ Master's degree
+8
+6&percnt;
+
+
+ Professional school degree
+0
+0&percnt;
+
+
+ Doctorate degree
+4
+3&percnt;
+
+
+Educational Attainment For The Population 25 Years And Over

@@ -1,0 +1,224 @@
+
+
+
+Population
+69
+
+
+
+Population Density
+20
+people per sq mi
+
+
+Housing Units
+0
+
+
+
+
+
+
+Land Area
+3.52
+sq mi
+
+
+Water Area
+0.01
+sq mi
+
+
+Occupied Housing Units
+0
+
+
+
+
+
+
+ Male
+50
+72&percnt;
+
+
+ Female
+19
+28&percnt;
+
+
+Gender
+
+
+
+ White
+39
+57&percnt;
+
+
+ Black Or African American
+6
+9&percnt;
+
+
+ American Indian Or Alaskan Native
+0
+0&percnt;
+
+
+ Asian
+5
+7&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+9
+13&percnt;
+
+
+ Other Race
+3
+4&percnt;
+
+
+ Two Or More Races
+7
+10&percnt;
+
+
+Race
+
+
+
+ In Occupied Housing Units
+0
+0&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+0
+0&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+0
+0&percnt;
+
+
+ Other Noninstitutional
+69
+100&percnt;
+
+
+Housing Type
+
+
+
+ Worked Full-time with Earnings
+0
+0&percnt;
+
+
+ Worked Part-time with Earnings
+23
+52&percnt;
+
+
+ No Earnings
+21
+48&percnt;
+
+
+Employment Status
+
+
+
+ Worked Full-time with Earnings
+0
+0&percnt;
+
+
+ Worked Part-time with Earnings
+23
+52&percnt;
+
+
+ No Earnings
+21
+48&percnt;
+
+
+Source of Earnings
+
+
+
+ Car, truck, or van
+0
+0&percnt;
+
+
+ Public transportation
+23
+100&percnt;
+
+
+ Taxicab
+0
+0&percnt;
+
+
+ Motorcycle
+0
+0&percnt;
+
+
+ Bicycle, Walked, or Other Means
+0
+0&percnt;
+
+
+ Worked at Home
+0
+0&percnt;
+
+
+Means Of Transportation To Work for Workers 16 and Over
+
+
+
+ Enrolled in Public School
+0
+0&percnt;
+
+
+ Enrolled in Private School
+0
+0&percnt;
+
+
+ Not Enrolled in School
+22
+100&percnt;
+
+
+School Enrollment (Ages 3 to 17)

@@ -1,0 +1,240 @@
+
+
+
+Population
+53
+
+
+
+Population Density
+0
+people per sq mi
+
+
+Housing Units
+539
+
+
+
+
+
+
+Land Area
+271.97
+sq mi
+
+
+Water Area
+4.41
+sq mi
+
+
+Occupied Housing Units
+21
+
+
+
+
+
+
+ Male
+27
+51&percnt;
+
+
+ Female
+26
+49&percnt;
+
+
+Gender
+
+
+
+ White
+52
+98&percnt;
+
+
+ Black Or African American
+0
+0&percnt;
+
+
+ American Indian Or Alaskan Native
+1
+2&percnt;
+
+
+ Asian
+0
+0&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+0
+0&percnt;
+
+
+ Other Race
+0
+0&percnt;
+
+
+ Two Or More Races
+0
+0&percnt;
+
+
+Race
+
+
+
+ Husband Wife Family Households
+16
+76&percnt;
+
+
+ Single Guardian
+0
+0&percnt;
+
+
+ Singles
+5
+24&percnt;
+
+
+ Singles With Roommate
+0
+0&percnt;
+
+
+Families vs Singles
+
+
+
+
+									Average Household Size: 3								
+
+
+
+
+ Households without Kids
+16
+76&percnt;
+
+
+ Households with Kids
+5
+24&percnt;
+
+
+Households with Kids
+
+
+
+ In Occupied Housing Units
+53
+100&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+0
+0&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+0
+0&percnt;
+
+
+ Other Noninstitutional
+0
+0&percnt;
+
+
+Housing Type
+
+
+
+ Owned Households With A Mortgage
+3
+0.6&percnt;
+
+
+ Owned Households Free & Clear
+7
+1.3&percnt;
+
+
+ Renter Occupied Households
+11
+2.0&percnt;
+
+
+ Households Vacant
+518
+96.1&percnt;
+
+
+Housing Occupancy
+
+
+
+ For Rent
+0
+0.0&percnt;
+
+
+ Rented & Unoccupied
+0
+0.0&percnt;
+
+
+ For Sale Only
+4
+0.8&percnt;
+
+
+ Sold & Unoccupied
+0
+0.0&percnt;
+
+
+ For Season Recreational Or Occasional Use
+514
+99.2&percnt;
+
+
+ For Migrant Workers
+0
+0.0&percnt;
+
+
+ Vacant For Other Reasons
+0
+0.0&percnt;
+
+
+Vacancy Reasons

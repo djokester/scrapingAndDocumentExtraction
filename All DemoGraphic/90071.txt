@@ -1,0 +1,133 @@
+
+
+
+Population
+15
+
+
+
+Population Density
+122
+people per sq mi
+
+
+Housing Units
+0
+
+
+
+
+
+
+Land Area
+0.12
+sq mi
+
+
+Water Area
+0.00
+sq mi
+
+
+Occupied Housing Units
+0
+
+
+
+
+
+
+ Male
+13
+87&percnt;
+
+
+ Female
+2
+13&percnt;
+
+
+Gender
+
+
+
+ White
+9
+60&percnt;
+
+
+ Black Or African American
+5
+33&percnt;
+
+
+ American Indian Or Alaskan Native
+0
+0&percnt;
+
+
+ Asian
+1
+7&percnt;
+
+
+ Native Hawaiian & Other Pacific Islander
+0
+0&percnt;
+
+
+ Other Race
+0
+0&percnt;
+
+
+ Two Or More Races
+0
+0&percnt;
+
+
+Race
+
+
+
+ In Occupied Housing Units
+0
+0&percnt;
+
+
+ Correctional Facility For Adults
+0
+0&percnt;
+
+
+ Juvenile Facilities
+0
+0&percnt;
+
+
+ Nursing Facilities
+0
+0&percnt;
+
+
+ Other Institutional
+0
+0&percnt;
+
+
+ College Student Housing
+0
+0&percnt;
+
+
+ Military Quarters
+0
+0&percnt;
+
+
+ Other Noninstitutional
+15
+100&percnt;
+
+
+Housing Type
